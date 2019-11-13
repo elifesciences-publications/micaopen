@@ -2,6 +2,8 @@
 
 Open Software from the MICA lab (http:/mica-mni.github.io), other useful tools, and supplementary data that accompanies some of our recent publications. 
 
+### Forked to archive code associated with Paquola & Bethlehem et al., 2019 eLife, https://doi.org/10.7554/eLife.50482
+
 ## Main tools 
 **MPC**: tool for microstructure profile covariance analysis, which can generate subject specific networks from histological reconstructions as well as myelin sensitive MRI data, used for the analysis of microstructural gradients. For further details, see our paper: Paquola et al. 2019 PLoS Biology (https://doi.org/10.1371/journal.pbio.3000284)
 
@@ -13,7 +15,7 @@ Open Software from the MICA lab (http:/mica-mni.github.io), other useful tools, 
 
 **diffusion_map_embedding**: this code implements diffusion map embedding technique in Matlab, used in our hippocampal subfield connectivity gradient paper: Vos de Wael et al., 2018 PNAS (https://www.pnas.org/content/115/40/10154.abstract). These tools have now become part of BrainSpace. 
 
-**a_moment_of_change**: This repository is a companion to our preprint "Shifts in myeloarchitecture characterise adolescent development of cortical gradients" (https://www.biorxiv.org/content/10.1101/706341v2). In the repo, we provide preprocessed data used in the analysis as well as the script to reproduce the primary figures 
+**a_moment_of_change**: This repository is a companion to our preprint "Shifts in myeloarchitecture characterise adolescent development of cortical gradients" (https://doi.org/10.7554/eLife.50482). In the repo, we provide preprocessed data used in the analysis as well as the script to reproduce the primary figures. 
 
 **SurfStat**: Contains SurfStat (Chicago version) for surface- and volume-based statistical analysis and visualization. Documentation links are here: http://math.mcgill.ca/~keith/surfstat or http://mica-mni.github.io/surfstat. Also contains addons from the micalab and tutorial data. 
 
