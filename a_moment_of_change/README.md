@@ -9,7 +9,7 @@ The script requires SurfStat (http://www.math.mcgill.ca/keith/surfstat/) as well
 Figure 3 and small sections of Figure 1 were generated in R, whereby data is exported from matlab and then reformatted in R to suit the specific needs. We have signalled this where possible in the main script.
 
 ## How to cite
-If you use this code, please cite our article:  Paquola & Bethlehem et al., 2019 bioRix ...
+If you use this code, please cite our article:  Paquola & Bethlehem et al., 2019 eLife, https://doi.org/10.7554/eLife.50482
 And direct the reader to the github repository: https://github.com/MICA-MNI/micaopen/tree/master/a_moment_of_change
             
 
